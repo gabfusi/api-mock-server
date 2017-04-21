@@ -7,6 +7,6 @@
 `npm run start`
 
 ## Query data
-`http://localhost:3000/api-test-foo`
+`http://localhost:3000/api/test/foo`
 
-`http://localhost:3000/api-test-foo?custom_status=401`
+`http://localhost:3000/api/test/foo?custom_status=401`
