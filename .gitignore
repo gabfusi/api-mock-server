@@ -1,2 +1,4 @@
 node_modules/*
 endpoints/*
+!endpoints/200@api-test-foo.json
+!endpoints/401@api-test-foo.json
